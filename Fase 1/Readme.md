@@ -6,7 +6,7 @@ un alto nivel de precisión y de sensibilidad (recall). De igual manera, deben d
 palabras seleccionadas para representar las reseñas, las cuales corresponden a las variables 
 a utilizar en el modelo analítico.
 
-## EN esta etapa analizamos:
+## En esta etapa analizamos:
 - Entendimiento del negocio y enfoque analítico. 
 - Entendimiento y preparación de los datos.
 - Modelado y evaluación
