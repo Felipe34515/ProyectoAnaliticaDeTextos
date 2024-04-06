@@ -15,7 +15,7 @@ a utilizar en el modelo analítico.
 - Trabajo en equipo
 
 ## Entregables:
-- Código de la solución creada
-- Documentado 
+- Código de la solución creada (dentro del archivo Proyecto_analítica de textos_202410.ipynb)
+- Documentado (dentro del archivo ...)
 - Video de Presentación:
-- Presentación
+- Presentación: https://www.canva.com/design/DAGBqqhJ4bU/pWHWmPHk2gLgbd5H4g0AWQ/edit?utm_content=DAGBqqhJ4bU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
