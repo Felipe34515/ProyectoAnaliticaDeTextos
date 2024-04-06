@@ -13,3 +13,5 @@ El Ministerio de Comercio, Industria y Turismo de Colombia, la Asociación Hotel
 
 Esos actores de turismo prepararon dos conjuntos de datos con reseñas de sitios turísticos. Cada reseña tiene una calificación según el sentimiento que tuvo el turista al visitarlo. Estos actores quieren lograr un análisis independiente de los conjuntos de datos y al final del proyecto discutir sobre los grupos de científicos de datos e ingenieros de datos que acompañarán el desarrollo real de este proyecto.
 
+Este proyecto es parte del Proyetco 1 para el curso Inteligencia de negocios (BI).
+
