@@ -13,3 +13,9 @@ a utilizar en el modelo analítico.
 - Resultados.
 - Mapa de actores relacionado con el producto de datos creado.
 - Trabajo en equipo
+
+## Entregables:
+- Código de la solución creada
+- Documentado 
+- Video de Presentación:
+- Presentación
