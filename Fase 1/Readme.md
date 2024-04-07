@@ -17,5 +17,6 @@ a utilizar en el modelo analítico.
 ## Entregables:
 - Código de la solución creada (dentro del archivo Proyecto_analítica de textos_202410.ipynb)
 - Documentado (dentro del archivo ...)
+- Archivo de prueba con etiquetas (test_results.csv)
 - Video de Presentación: https://www.youtube.com/playlist?list=PLb_ZF8jsdTREFyI6d2clZqMv2HfoyO3hV
 - Presentación: https://www.canva.com/design/DAGBqqhJ4bU/pWHWmPHk2gLgbd5H4g0AWQ/edit?utm_content=DAGBqqhJ4bU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
